@@ -1,0 +1,39 @@
+89734567983569873645789 hidrogenio -> 9687435 tritio
+34527805243897453987435 hidrogenio -> 78934 essencia-de-hidrogenio
+84938204 hidrogenio -> 59833895 oxigenio
+879342589752987709324590823498034290834 hidrogenio -> 10101010 bromio
+894538734589 bromio 890235498235 tritio 87943789234987 oxigenio -> 48929 britrigenio
+987523759824 hidrogenio -> 841390 helio
+8419384931589054 hidrogenio -> 9430140 ferro
+34885 ferro 8358953 oxigenio -> 48395 oxido-de-ferro
+5803404395 ferro 5353 tritio -> 4893 tritio-ferroso
+9238492348 tritio-ferroso 8549259 oxido-de-ferro 5084038604380147385439 britrigenio -> 1 tritio-magnetico
+305940359 hidrogenio 58395 tritio-magnetico -> 27308957203492749032580949540 ambar
+8493259 hidrogenio 49395032 ferro -> 50 ferro-hidogenado
+2309594 oxigenio 4398503 ferro-hidrogenado -> 99999999 oxido-de-ferro-hidrogenado
+5803184013 hidrogenio -> 7991010 galium
+5803404395 galium 5353 tritio -> 4893 tritio-galium
+9238492348 tritio-galium 8549259 oxido-de-ferro-hidrogenado 5084038604380147385439 britrigenio -> 5834953049 adamantio-de-trouxa
+50 adamantio-de-trouxa 3058048502 bromio -> 50 adamantio-bromado
+3580285024 hidrogenio -> 1 hidrogenio-estavel
+1 hidrogenio-estavel 3058048502 bromio -> 1 bromo-hidrogenado
+584395409384092834092 britrigenio 1348295043968031489 bromo-hidrogenado -> 1 britrigenio-bromado
+5849502309423409 hidrogenio-estavel 3829020549859043340 galium 3802804923094905 tritio-galium 5478239209384509 adamantio-bromado -> 534895 adamantio-galium
+480385 adamantio-de-trouxa 53205 adamantio-galium 4184932894 adamantio-bromado -> 1 adamantina
+3582940293 adamantina -> 1 adamantina-estavel
+5 adamantina-estavel -> 1 cobre
+1 cobre 3582940293 adamantina -> 1 cobre-estavel
+13080 adamantina-estavel -> 10 titanio
+329589432 adamantina-estavel -> 50 cobalto
+184 adamantina-estavel -> 530 manganese
+100000000000000000 cobre-estavel 100000000000000 hidrogenio-estavel 50 tritio-ferroso 1 adamantina 1 cobalto 1 titanio 1 manganese -> 1 pedra-filosofal
+5 pedra-filosofal 1000 hidrogenio-estavel 5000000000000000000000 adamantio-de-trouxa -> 59048359 potencia
+100 potencia -> 1 mana-pura
+300 mana-pura 1 tritio-ferroso -> 300 mana-de-ferro
+300 mana-pura 5438095340992349205943095 cobre -> 300 mana-de-cobre
+53489050348953 mana-de-ferro 82952840409382 mana-de-cobre -> 5483905 mana-de-bronze
+50005203940923 potencia 948234823 hidrogenio 23489238492 oxigenio -> 1 potencia-de-vida
+5305 potencia-de-vida 5348953495092340312840923 adamantio-galium -> 1 potencia-de-vida-estavel
+08253897345793458793459874359874239874328973458735490845309834590834543 potencia-de-vida-estavel -> 1 concentrato-de-vida
+03478509380954209340205934095034054305843098 pedra-filosofal 48139084023853465437643589347583 concentrato-de-vida 54380530984029344590543 mana-de-bronze 48043580938690458690 manganese 4820938409234902 titanio 8409238409823490 cobalto 482398409283049 bromo-hidrogenado -> 1 ouro
+# 1729773380651824258189671900154955817112887564263407270949223061047669366492991136673533000602622275621458437896726627532890796

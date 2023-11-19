@@ -1,0 +1,51 @@
+1 hidrogenio -> 2 energia
+1000 energia -> 1 titanio
+1000 energia -> 1 ferro
+1000 energia -> 1 cobre
+1000 energia -> 1 cobalto
+1000 energia -> 1 niquel
+1000 energia -> 1 silicio
+1000 energia -> 1 carbono
+1000 energia -> 1 enxofre
+1000 energia -> 1 oxigenio
+1000 energia -> 1 nitrogenio
+70 nitrogenio 22 oxigenio 4 carbono 1000 energia -> 1 polvora
+2 hidrogenio 1 oxigenio 3 energia -> 1 agua
+1 agua 1 carbono 2 energia -> 1 alcool
+1 alcool 1 oxigenio 5 energia -> 1 aldeido
+1 aldeido 1 oxigenio 7 energia -> 1 acido
+2 acido 2 oxigenio 3 energia -> 1 acido_carboxilico
+3 hidrogenio 1 nitrogenio 4 energia -> 1 amina
+20 amina 10 acido_carboxilico 2 energia -> 1 aminoacido
+5 enxofre 5 oxigenio 10 energia -> 1 acido_sulfurico
+7 acido_sulfurico 2 agua 3 energia -> 3 acido_sulfuroso
+2 polvora 1 acido_sulfuroso 1 energia -> 1 explosivo
+20 explosivo 100000000000 aminoacido -> 1 estrela
+1 estrela -> 1000000000 po-de-estrela
+10 po-de-estrela -> 1 helio
+10 po-de-estrela -> 1 neon
+10 po-de-estrela -> 1 argonio
+10 po-de-estrela -> 1 kriptonio
+10 po-de-estrela -> 1 xenonio
+10 po-de-estrela -> 1 radonio
+10 po-de-estrela -> 1 uranio
+10 po-de-estrela -> 1 plutonio
+10 xenonio 7 niquel 3 energia -> 1 xenonio-137
+10 kriptonio 3 silicio 3 energia -> 1 kriptonio-85
+10 argonio 3 cobalto 3 energia -> 1 argonio-39
+10 neon 3 ferro 3 energia -> 1 neon-22
+10 helio 3 cobre 3 energia -> 1 helio-3
+10 radonio 3 titanio 3 energia -> 1 radonio-220
+10 uranio 3 carbono 3 energia -> 1 uranio-235
+10 plutonio 3 enxofre 3 energia -> 1 plutonio-244
+100 xenonio-137 100 kriptonio-85 100 argonio-39 100 neon-22 100 helio-3 100 radonio-220 100 uranio-235 100 plutonio-244 -> 1 motor-estelar
+20 niquel 20 cobalto 20 ferro 20 cobre 20 titanio 20 silicio 20 carbono 20 enxofre 20 oxigenio 20 nitrogenio 20 hidrogenio 20 energia -> 1 nave
+1 nave 1 motor-estelar -> 1 nave-estelar
+22 aminoacido 59 agua 144 energia -> 1 proteina
+1 proteina 1 agua 1 oxigenio 1 energia -> 1 celula
+1000000000000 celula 1000000000000 agua 1000000000000 energia -> 1 organismo_macrocelular
+1000000000000 organismo_macrocelular -> 1 vida
+4 vida 1 nave-estelar -> 1 colonizador
+100 colonizador -> 1 colonia
+1 colonia 500000000000000000000000 vida -> 1 ouro
+# 21951131344307270233213720027160493827353928949509944

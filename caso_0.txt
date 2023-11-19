@@ -1,0 +1,5 @@
+5 hidrogenio -> 2 titanio
+7 hidrogenio -> 1 cobalto
+10 hidrogenio -> 1 ferro
+1 ferro 3 cobalto 27 titanio -> 1 ouro
+# 98

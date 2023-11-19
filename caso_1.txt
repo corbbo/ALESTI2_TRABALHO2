@@ -1,0 +1,17 @@
+120 hidrogenio -> 20 cadmio
+77 hidrogenio -> 3 carbono
+1 cadmio 2 carbono 10 oxigenio 1 hidrogenio -> 1 enxofre
+2 enxofre 2 oxigenio -> 1 sulfato
+5 hidrogenio -> 1 fosforo
+1 fosforo 4 oxigenio -> 1 fosfato
+4 hidrogenio -> 1 oxigenio
+2 hidrogenio 1 oxigenio -> 1 agua
+1 hidrogenio 1 oxigenio -> 1 hidroxila
+7 fosforo 7 sulfato 1 hidroxila -> 3 prata
+3 hidrogenio -> 1 nitrogenio
+1 nitrogenio 1 oxigenio -> 2 nitrito
+3 nitrogenio 3 oxigenio -> 1 nitrato
+2 nitrato 2 nitrito -> 1 azoto
+10 azoto 12 hidrogenio -> 1 amonia
+1 amonia 1 prata 1 agua 1 fosfato -> 1 ouro
+# 611

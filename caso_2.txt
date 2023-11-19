@@ -1,0 +1,31 @@
+120 hidrogenio -> 20 cadmio
+77 hidrogenio -> 3 carbono
+1 cadmio 2 carbono 10 oxigenio 1 hidrogenio -> 1 enxofre
+2 enxofre 2 oxigenio -> 1 sulfato
+5 hidrogenio -> 1 fosforo
+1 fosforo 4 oxigenio -> 1 fosfato
+4 hidrogenio -> 1 oxigenio
+2 hidrogenio 1 oxigenio -> 1 agua
+1 hidrogenio 1 oxigenio -> 1 hidroxila
+7 fosforo 7 sulfato 1 hidroxila -> 3 prata
+3 hidrogenio -> 1 nitrogenio
+1 nitrogenio 1 oxigenio -> 2 nitrito
+3 nitrogenio 3 oxigenio -> 1 nitrato
+2 nitrato 2 nitrito -> 1 azoto
+10 azoto 12 hidrogenio -> 1 amonia
+1 amonia 1 prata 1 agua 1 fosfato -> 1 selenio
+51 selenio 23 oxigenio -> 3 selenito
+12 fosfato 12 selenito -> 1 selenato
+14 hidrogenio -> 1 silicio
+1 silicio 2 oxigenio -> 1 silicato
+9205 hidrogenio -> 1 potassio
+10384015 hidrogenio -> 1 calcio
+52 calcio 33 silicato 348953984 oxigenio -> 31 calcio-silicato
+987345789 calcio-silicato 1789345897 potassio -> 3 feldspato
+879354789 feldspato 798546 agua -> 2 caulino
+1 caulino 1 agua -> 1 argila
+98453 azoto 5389 argila 453789 calcio-silicato 8093548 feldspato -> 7 terra
+2 terra 1 agua -> 1 lama
+95 terra 809456032 agua 2398456 argila 3485 amonia -> 50 lodo
+886598 lodo 20 prata 5555555555555555 selenato -> 1 ouro
+# 57115668708202056296478
